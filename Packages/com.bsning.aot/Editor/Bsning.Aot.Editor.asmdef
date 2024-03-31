@@ -1,0 +1,10 @@
+{
+    "name": "Bsning.Aot.Editor",
+    "references": [
+      "Bsning.Aot"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
